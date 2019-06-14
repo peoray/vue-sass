@@ -1,4 +1,4 @@
-# ticket_vue
+# vue-sass
 
 ## Project setup
 ```
