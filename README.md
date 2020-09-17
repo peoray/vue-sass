@@ -1,5 +1,7 @@
 # vue-sass
 
+How to setup Vue with Sass together in a project
+
 ## Project setup
 ```
 npm install
